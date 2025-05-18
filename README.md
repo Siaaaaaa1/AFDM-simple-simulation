@@ -1,5 +1,5 @@
 ## AFDM-simple-simulation
-A simple implementation of affine Fourier division multiplexing (AFDM) system.
+A simple implementation of affine frequency division multiplexing (AFDM) system.
 
 ## References
 [R1]. Bemani, Ali, Nassar Ksairi, and Marios Kountouris. "Affine frequency division multiplexing for next generation wireless communications." IEEE Transactions on Wireless Communications 22.11 (2023): 8214-8229.
